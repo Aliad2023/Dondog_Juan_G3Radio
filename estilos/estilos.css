@@ -1,0 +1,61 @@
+.header{
+
+    height: 80px;
+    background-color: #c96b6b;
+    padding: 10px 20px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.footer__class{
+    height: 180px;
+    background-color: #c96b6b;
+    padding: 10px 20px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+  }
+.logo{
+
+    
+}
+
+.main__body{
+
+    height: 70vh;
+    background-color: #bbbbbb;
+    
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.h1__class{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+      
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.navprincipal{}
+
+
+
+.navprincipal__contactar{}
+
+
+.navprincipal__servicios{}
+
+
+
+
+.navprincipal__trabajos{}
